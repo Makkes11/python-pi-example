@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f6a306a-20d4-482d-a074-c30b773f1271" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UkLnnjimuSOIPupaCX2JZKuUmT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f6a306a-20d4-482d-a074-c30b773f1271" name="Default Changelist" comment="" />
+      <created>1575895817663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575895817663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1172" height="183" key="GridCell.Tab.0.bottom" timestamp="1575896124452">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state width="1172" height="183" key="GridCell.Tab.0.bottom/65.24.1215.776@65.24.1215.776" timestamp="1575896124452" />
+    <state width="1172" height="183" key="GridCell.Tab.0.center" timestamp="1575896124451">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state width="1172" height="183" key="GridCell.Tab.0.center/65.24.1215.776@65.24.1215.776" timestamp="1575896124451" />
+    <state width="1172" height="183" key="GridCell.Tab.0.left" timestamp="1575896124450">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state width="1172" height="183" key="GridCell.Tab.0.left/65.24.1215.776@65.24.1215.776" timestamp="1575896124450" />
+    <state width="1172" height="183" key="GridCell.Tab.0.right" timestamp="1575896124451">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state width="1172" height="183" key="GridCell.Tab.0.right/65.24.1215.776@65.24.1215.776" timestamp="1575896124451" />
+    <state x="161" y="67" key="SettingsEditor" timestamp="1575896335254">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state x="161" y="67" key="SettingsEditor/65.24.1215.776@65.24.1215.776" timestamp="1575896335254" />
+    <state x="328" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1575897600419">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state x="328" y="399" key="com.intellij.ide.util.TipDialog/65.24.1215.776@65.24.1215.776" timestamp="1575897600419" />
+    <state x="335" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1575896570721">
+      <screen x="65" y="24" width="1215" height="776" />
+    </state>
+    <state x="335" y="121" width="672" height="678" key="search.everywhere.popup/65.24.1215.776@65.24.1215.776" timestamp="1575896570721" />
+  </component>
+</project>
